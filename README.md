@@ -1,5 +1,7 @@
 # Adaptive Non-linear Intensity Modeling in Spatial Point Processes with GAMs
 
+Research carried out during my internship at the **Max Planck Institute of Molecular Cell Biology and Genetics (MPI-CBG)**, Dresden (2024).
+
 This repository accompanies the research on **using Generalized Additive Models (GAMs) to estimate intensity functions in Poisson and Cox point processes**. The work demonstrates how GAMs, with smoothing and basis functions, can capture non-linear dependencies in spatial data while avoiding overfitting through efficient cross-validation.
 
 ## 📌 Overview
@@ -46,3 +48,10 @@ This project introduces:
 * Wood, S. N. *Generalized Additive Models: An Introduction with R* (2006).
 * Hastie, T., Tibshirani, R., Friedman, J. *The Elements of Statistical Learning* (2009).
 * Youngman, B. D., Economou, T. (2017). *Generalised additive point process models for natural hazard occurrence*.
+
+## 📂 Contents
+
+| File | Description |
+|---|---|
+| [`using_GAM_for_poison_point_processes.pdf`](using_GAM_for_poison_point_processes.pdf) | Paper-style report |
+| [`internship_powerpoint.pdf`](internship_powerpoint.pdf) | Internship presentation |
